@@ -1,0 +1,80 @@
+      ___           ___                       ___                 
+     /  /\         /  /\        ___          /__/\          ___   
+    /  /::\       /  /:/_      /  /\         \  \:\        /  /\  
+   /  /:/\:\     /  /:/ /\    /  /:/          \  \:\      /  /:/  
+  /  /:/  \:\   /  /:/ /::\  /__/::\      _____\__\:\    /  /:/   
+ /__/:/ \__\:\ /__/:/ /:/\:\ \__\/\:\__  /__/::::::::\  /  /::\   
+ \  \:\ /  /:/ \  \:\/:/~/:/    \  \:\/\ \  \:\~~\~~\/ /__/:/\:\  
+  \  \:\  /:/   \  \::/ /:/      \__\::/  \  \:\  ~~~  \__\/  \:\ 
+   \  \:\/:/     \__\/ /:/       /__/:/    \  \:\           \  \:\
+    \  \::/        /__/:/        \__\/      \  \:\           \__\/
+     \__\/         \__\/                     \__\/                
+
+
+-> Information Gathering
+---------------------------------
+https://viewdns.info
+http://www.shodanhq.com
+http://builtwith.com
+http://www.tcpiputils.com
+http://www.netcraft.com
+http://searchdns.netcraft.com/?host 
+http://urlfind.org
+http://www.dnswatch.info
+https://other.w3rank.ru/
+https://haveibeenpwned.com/
+https://checkusernames.com/
+
+-> IP/Domain Lookup
+-----------------------------
+http://ip-api.com/#
+http://www.ip-score.com
+http://ip-check.info
+http://www.ip2location.com/demo
+http://ipaddress.com
+http://www.ip-adress.com/ipaddresstolocation/
+http://www.bing.com/maps/
+http://centralops.net/co/
+http://www.scroogle.com
+https://www.whois.net
+https://whois.icann.org/en
+http://whois.domaintools.com
+
+-> Ports and Services
+-----------------------------
+http://www.yougetsignal.com
+https://www.iana.org/assignments/service...bers.xhtml
+http://www.sockets.com/services.htm 
+http://www.nirsoft.net/countryip/ 
+https://censys.io/
+https://www.zoomeye.org/
+
+-> MAC Address Lookup
+---------------------------------
+http://aruljohn.com/mac.pl 
+http://coffer.com/mac_find/ 
+
+-> Website Scanner Online
+-------------------------------------
+https://sitecheck.sucuri.net - Scan Website 
+http://scanner.pcrisk.com/
+
+-> Default Passwords
+------------------------------
+http://www.defaultpassword.com
+https://cirt.net/passwords
+http://www.routerpasswords.com
+http://defaultpasswords.in
+http://www.defaultpassword.us
+https://default-password.info
+
+-> Users
+--------------------------------
+https://www.namecheckr.com/
+https://getpeoplesearch.com/
+https://www.snapdex.com/
+https://knowem.com/
+https://searchpof.com/
+https://checkusernames.com/
+https://lullar-com-3.appspot.com/
+https://namechk.com/
